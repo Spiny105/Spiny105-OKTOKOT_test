@@ -1,0 +1,34 @@
+c:\users\n.leontev\documents\visual studio 2013\Projects\OKTOKOT_test\OKTOKOT_test\bin\Debug\OKTOKOT_test.exe.config
+c:\users\n.leontev\documents\visual studio 2013\Projects\OKTOKOT_test\OKTOKOT_test\bin\Debug\OKTOKOT_test.exe
+c:\users\n.leontev\documents\visual studio 2013\Projects\OKTOKOT_test\OKTOKOT_test\bin\Debug\OKTOKOT_test.pdb
+c:\users\n.leontev\documents\visual studio 2013\Projects\OKTOKOT_test\OKTOKOT_test\obj\Debug\OKTOKOT_test.csprojResolveAssemblyReference.cache
+c:\users\n.leontev\documents\visual studio 2013\Projects\OKTOKOT_test\OKTOKOT_test\obj\Debug\OKTOKOT_test.mainForm.resources
+c:\users\n.leontev\documents\visual studio 2013\Projects\OKTOKOT_test\OKTOKOT_test\obj\Debug\OKTOKOT_test.Properties.Resources.resources
+c:\users\n.leontev\documents\visual studio 2013\Projects\OKTOKOT_test\OKTOKOT_test\obj\Debug\OKTOKOT_test.csproj.GenerateResource.Cache
+c:\users\n.leontev\documents\visual studio 2013\Projects\OKTOKOT_test\OKTOKOT_test\obj\Debug\OKTOKOT_test.exe
+c:\users\n.leontev\documents\visual studio 2013\Projects\OKTOKOT_test\OKTOKOT_test\obj\Debug\OKTOKOT_test.pdb
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\OKTOKOT_test\OKTOKOT_test\bin\Debug\OKTOKOT_test.exe.config
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\OKTOKOT_test\OKTOKOT_test\bin\Debug\OKTOKOT_test.exe
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\OKTOKOT_test\OKTOKOT_test\bin\Debug\OKTOKOT_test.pdb
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\OKTOKOT_test\OKTOKOT_test\obj\Debug\OKTOKOT_test.mainForm.resources
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\OKTOKOT_test\OKTOKOT_test\obj\Debug\OKTOKOT_test.Properties.Resources.resources
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\OKTOKOT_test\OKTOKOT_test\obj\Debug\OKTOKOT_test.csproj.GenerateResource.Cache
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\OKTOKOT_test\OKTOKOT_test\obj\Debug\OKTOKOT_test.exe
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\OKTOKOT_test\OKTOKOT_test\obj\Debug\OKTOKOT_test.pdb
+C:\Users\Николай\Desktop\OKTOKOT_test-042181c0400c5334116f3ca9faa5b8ceb902fc86\OKTOKOT_test\bin\Debug\OKTOKOT_test.exe.config
+C:\Users\Николай\Desktop\OKTOKOT_test-042181c0400c5334116f3ca9faa5b8ceb902fc86\OKTOKOT_test\obj\Debug\OKTOKOT_test.exe
+C:\Users\Николай\Desktop\OKTOKOT_test-042181c0400c5334116f3ca9faa5b8ceb902fc86\OKTOKOT_test\obj\Debug\OKTOKOT_test.pdb
+C:\Users\Николай\Desktop\OKTOKOT_test-042181c0400c5334116f3ca9faa5b8ceb902fc86\OKTOKOT_test\obj\Debug\OKTOKOT_test.mainForm.resources
+C:\Users\Николай\Desktop\OKTOKOT_test-042181c0400c5334116f3ca9faa5b8ceb902fc86\OKTOKOT_test\obj\Debug\OKTOKOT_test.Properties.Resources.resources
+C:\Users\Николай\Desktop\OKTOKOT_test-042181c0400c5334116f3ca9faa5b8ceb902fc86\OKTOKOT_test\obj\Debug\OKTOKOT_test.csproj.GenerateResource.Cache
+C:\Users\Николай\Desktop\OKTOKOT_test-042181c0400c5334116f3ca9faa5b8ceb902fc86\OKTOKOT_test\bin\Debug\OKTOKOT_test.exe
+C:\Users\Николай\Desktop\OKTOKOT_test-042181c0400c5334116f3ca9faa5b8ceb902fc86\OKTOKOT_test\bin\Debug\OKTOKOT_test.pdb
+C:\Users\Николай\Desktop\OKTOKOT_test-master\OKTOKOT_test\bin\Debug\OKTOKOT_test.exe.config
+C:\Users\Николай\Desktop\OKTOKOT_test-master\OKTOKOT_test\obj\Debug\OKTOKOT_test.exe
+C:\Users\Николай\Desktop\OKTOKOT_test-master\OKTOKOT_test\obj\Debug\OKTOKOT_test.pdb
+C:\Users\Николай\Desktop\OKTOKOT_test-master\OKTOKOT_test\bin\Debug\OKTOKOT_test.exe
+C:\Users\Николай\Desktop\OKTOKOT_test-master\OKTOKOT_test\bin\Debug\OKTOKOT_test.pdb
+C:\Users\Николай\Desktop\OKTOKOT_test-master\OKTOKOT_test\obj\Debug\OKTOKOT_test.csprojResolveAssemblyReference.cache
+C:\Users\Николай\Desktop\OKTOKOT_test-master\OKTOKOT_test\obj\Debug\OKTOKOT_test.mainForm.resources
+C:\Users\Николай\Desktop\OKTOKOT_test-master\OKTOKOT_test\obj\Debug\OKTOKOT_test.Properties.Resources.resources
+C:\Users\Николай\Desktop\OKTOKOT_test-master\OKTOKOT_test\obj\Debug\OKTOKOT_test.csproj.GenerateResource.Cache
