@@ -156,12 +156,17 @@ namespace OKTOKOT_test
         /// </summary>
         private void mainForm_OnFileAnalysed()
         {
+
             if (InvokeRequired)
             {
                 BeginInvoke(new MethodInvoker(() =>
                 {
                     progressBar1.Value = (int)(((double)++progress_completed) / total_progress * progressBar1.Maximum);
                 }));
+            }
+            else
+            {
+                progressBar1.Value = (int)(((double)++progress_completed) / total_progress * progressBar1.Maximum);
             }
         }
 
@@ -176,10 +181,14 @@ namespace OKTOKOT_test
             {
                 if (InvokeRequired)
                 {
-                    BeginInvoke(new MethodInvoker(() => 
+                    BeginInvoke(new MethodInvoker(() =>
                     {
                         result += local_result;
                     }));
+                }
+                else
+                {
+                    result += local_result;
                 }
             }
         }
@@ -245,6 +254,10 @@ namespace OKTOKOT_test
                         toolStripStatusLabel1.Text = "Поиск файлов";
                     }));
                 }
+                else
+                {
+                    toolStripStatusLabel1.Text = "Поиск файлов";
+                }
 
                 //Получить список всех файлов во всех поддиректориях
                 List<string> files = new List<string>();
@@ -275,6 +288,10 @@ namespace OKTOKOT_test
                     {
                         toolStripStatusLabel1.Text = "Обработка файлов";
                     }));
+                }
+                else
+                {
+                    toolStripStatusLabel1.Text = "Обработка файлов";
                 }
 
                 //Разбить полученный список на несколько списков для дальнейшей передачи в потоки
@@ -332,6 +349,16 @@ namespace OKTOKOT_test
                         }
                     }));
                 }
+                else
+                {
+                    result_label.Text = "Результат = " + result.ToString();
+                    progressBar1.Value = progressBar1.Maximum;
+                    toolStripStatusLabel1.Text = "Обработка файлов завешена";
+                    if (some_files_is_invalid)
+                    {
+                        toolStripStatusLabel1.Text += Environment.NewLine + "Не удалось прочитать некоторые файлы!";
+                    }
+                }
             }
             catch (ThreadAbortException) { }
             catch (Exception ex)
@@ -352,6 +379,11 @@ namespace OKTOKOT_test
                         load_button.Enabled = true;
                         cancell_button.Enabled = false;
                     }));
+                }
+                else
+                {
+                    load_button.Enabled = true;
+                    cancell_button.Enabled = false;
                 }
             }
         }
