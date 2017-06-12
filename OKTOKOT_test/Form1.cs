@@ -25,7 +25,7 @@ namespace OKTOKOT_test
         private delegate void MethodContainer();
 
         /// <summary>
-        /// Один из файлов был просмотрен
+        /// Событие. Один из файлов был просмотрен
         /// </summary>
         private event MethodContainer fileAnalysed = delegate() { };
 
@@ -91,6 +91,9 @@ namespace OKTOKOT_test
         {
             progressBar1.Value = 0;
             result_label.Text = "Результат = 0";
+
+            load_button.Enabled = true;
+            cancell_button.Enabled = false;
         }
 
         #endregion
@@ -142,8 +145,6 @@ namespace OKTOKOT_test
             resetForm();
 
             toolStripStatusLabel1.Text = "Отмена";
-            //load_button.Enabled = true;
-            //cancell_button.Enabled = false;
         }
 
         #endregion
@@ -159,8 +160,7 @@ namespace OKTOKOT_test
             {
                 BeginInvoke(new MethodInvoker(() =>
                 {
-                    progress_completed++;
-                    progressBar1.Value = (int)(((double)progress_completed) / total_progress * 100);
+                    progressBar1.Value = (int)(((double)++progress_completed) / total_progress * progressBar1.Maximum);
                 }));
             }
         }

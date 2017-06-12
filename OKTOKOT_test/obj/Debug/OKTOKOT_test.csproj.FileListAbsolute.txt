@@ -32,3 +32,11 @@ C:\Users\Николай\Desktop\OKTOKOT_test-master\OKTOKOT_test\obj\Debug\OKTOK
 C:\Users\Николай\Desktop\OKTOKOT_test-master\OKTOKOT_test\obj\Debug\OKTOKOT_test.mainForm.resources
 C:\Users\Николай\Desktop\OKTOKOT_test-master\OKTOKOT_test\obj\Debug\OKTOKOT_test.Properties.Resources.resources
 C:\Users\Николай\Desktop\OKTOKOT_test-master\OKTOKOT_test\obj\Debug\OKTOKOT_test.csproj.GenerateResource.Cache
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\OKTOKOT_test-master\OKTOKOT_test\bin\Debug\OKTOKOT_test.exe.config
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\OKTOKOT_test-master\OKTOKOT_test\obj\Debug\OKTOKOT_test.exe
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\OKTOKOT_test-master\OKTOKOT_test\obj\Debug\OKTOKOT_test.pdb
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\OKTOKOT_test-master\OKTOKOT_test\bin\Debug\OKTOKOT_test.exe
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\OKTOKOT_test-master\OKTOKOT_test\bin\Debug\OKTOKOT_test.pdb
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\OKTOKOT_test-master\OKTOKOT_test\obj\Debug\OKTOKOT_test.mainForm.resources
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\OKTOKOT_test-master\OKTOKOT_test\obj\Debug\OKTOKOT_test.Properties.Resources.resources
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\OKTOKOT_test-master\OKTOKOT_test\obj\Debug\OKTOKOT_test.csproj.GenerateResource.Cache
