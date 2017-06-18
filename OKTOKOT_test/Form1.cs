@@ -329,11 +329,10 @@ namespace OKTOKOT_test
                 }
 
                 //Ждем завершения работы потоков
-                while (threads.Any(x => x.IsAlive == true))
+                foreach (Thread th in threads)
                 {
-                    ;
+                    th.Join();
                 }
-
 
                 //Вывод результата на форму
                 if (InvokeRequired)
